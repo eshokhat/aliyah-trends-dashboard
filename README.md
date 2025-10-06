@@ -14,13 +14,13 @@ Coverage: 2015–2023.
 Volume: ~100 000 records.
 Format: UTF-8 CSV, partially in Hebrew.
 ## Processing Pipeline
-**Data Cleaning**:
+# Data Cleaning**:
  - Unified column schemas (renamed and translated fields).
  - Removed duplicates and standardized date formats.
-**SQL Integration**:
+# SQL Integration**:
  - Loaded all yearly files into one consolidated table.
  - Validated consistency of key fields (country, gender, year, count).
-**Export**:
+# Export**:
  - Produced a single master CSV ready for further BI or ML use.
 ## Visualization
 **Power BI** Dashboard showing:
