@@ -35,7 +35,7 @@ Format: UTF-8 CSV, partially in Hebrew.
  - Balanced age and gender ratios across most years.
 
 ## Tech Stack
-- **Python** Pandas
+- **Python** - pandas
 - **SQL** 
 - **Power BI** 
 - **Excel**
